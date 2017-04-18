@@ -20,6 +20,11 @@ Requirements
 ----------------------------------------
 jQuery
 
+Demo
+----------------------------------------
+
+https://rawgit.com/wu-lee/pasteimage/master/sample.html
+
 Usage
 ----------------------------------------
 
