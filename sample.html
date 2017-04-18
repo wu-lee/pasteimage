@@ -8,7 +8,8 @@
 		<script>
 		
 			function paste(src) {
-				$(document.body).append("<img src='" + src + "'>");
+				$(document.body).append("<img src='" + src + "'>").append("<pre>"+src+"</pre>");
+				
 			}
 			
 			$(function() {
